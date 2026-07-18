@@ -37,6 +37,8 @@ This release is my personal customized edition with various optimizations and en
 | Status | Unofficial |
 | Root | Not Included |
 
+Download Here- https://github.com/alhasanayon26/HyperOS-3.1-Android-16-Mod-Firmware-RN-13_5G#-download
+
 ---
 
 # ✨ What's Different From Project EclipseOS?
@@ -281,3 +283,9 @@ If you enjoy this project, consider starring the repository and sharing your fee
 Bug reports, suggestions, and improvements are always welcome.
 
 Enjoy the ROM! 🚀
+
+---
+
+## License
+
+Please respect the original author's work and any applicable licenses associated with the original project.
